@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e07ea338-29ed-45a8-924b-29140116b3cf" name="Default Changelist" comment="" />
+    <list default="true" id="e07ea338-29ed-45a8-924b-29140116b3cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
         <option value="Blade" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -110,6 +115,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hbKTTGdWzkSMJZraxGNmYG2XVv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -117,7 +123,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todolist" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -151,7 +157,8 @@
       <workItem from="1600353524335" duration="4996000" />
       <workItem from="1600368061962" duration="6842000" />
       <workItem from="1600381094561" duration="3292000" />
-      <workItem from="1600411050877" duration="3754000" />
+      <workItem from="1600411050877" duration="5114000" />
+      <workItem from="1600453130831" duration="207000" />
     </task>
     <servers />
   </component>
@@ -167,6 +174,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="310" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600281131160" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1600453345083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600453345083" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600298531023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
