@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e05e9393-c9d0-4c19-8fe6-877b015ec789" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../todolist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todolist/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e05e9393-c9d0-4c19-8fe6-877b015ec789" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +145,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhotoShow" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -174,6 +172,7 @@
       <updated>1600689570781</updated>
       <workItem from="1600689574867" duration="8856000" />
       <workItem from="1600718922664" duration="5835000" />
+      <workItem from="1600939534951" duration="704000" />
     </task>
     <servers />
   </component>
@@ -185,5 +184,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1600691301018" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1600940381943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600940381943" />
   </component>
 </project>
