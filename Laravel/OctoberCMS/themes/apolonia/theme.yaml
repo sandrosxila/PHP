@@ -1,0 +1,16 @@
+name: Apolonia
+description: ''
+author: 'Sandro Skhirtladze'
+homepage: ''
+code: ''
+form:
+    fields:
+        site_name:
+            label: Site Name
+            comment: The Global Website Name
+            default: cms
+        site_description:
+            label: Site Description
+            comment: The Global Website Description
+            default: lorem ipsum dolor sit amet, consectetur adipisicing elit.
+

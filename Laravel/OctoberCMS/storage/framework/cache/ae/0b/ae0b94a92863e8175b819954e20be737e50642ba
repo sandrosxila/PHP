@@ -1,0 +1,13 @@
+1601592348a:1:{s:9:"about.htm";a:10:{s:8:"fileName";s:9:"about.htm";s:7:"content";s:248:"title = "about"
+url = "/about"
+layout = "default"
+is_hidden = 0
+
+[\Apolonia\Resources\Components\Links resourcesLinks]
+link1 = "Google.com"
+link2 = "Microsoft.com"
+link3 = "Facebook.com"
+==
+<h1>about</h1>
+{% component 'resourcesLinks' %}";s:5:"mtime";i:1601591745;s:6:"markup";s:48:"<h1>about</h1>
+{% component 'resourcesLinks' %}";s:4:"code";N;s:5:"title";s:5:"about";s:3:"url";s:6:"/about";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:51:"\Apolonia\Resources\Components\Links resourcesLinks";a:3:{s:5:"link1";s:10:"Google.com";s:5:"link2";s:13:"Microsoft.com";s:5:"link3";s:12:"Facebook.com";}}}

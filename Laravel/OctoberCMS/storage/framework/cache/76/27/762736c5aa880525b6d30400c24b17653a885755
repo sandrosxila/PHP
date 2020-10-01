@@ -1,0 +1,50 @@
+1601592260a:1:{s:15:"site/header.htm";a:5:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1313:"<div class="bs-component">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="#">{{this.theme.site_name}}</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item {%if this.page.id == 'home'%}active{%endif%}">
+                    <a class="nav-link" href="{{'home' | page}}">Home</a>
+                </li>
+                <li class="nav-item {%if this.page.id == 'contact'%}active{%endif%}">
+                    <a class="nav-link" href="{{'contact' | page}}">Contact</a>
+                </li>
+                <li class="nav-item {%if this.page.id == 'blog'%}active{%endif%}">
+                    <a class="nav-link" href="{{'blog' | page}}">Blog</a>
+                </li>
+                <li class="nav-item {%if this.page.id == 'about'%}active{%endif%}">
+                    <a class="nav-link" href="{{'about' | page}}">About</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+";s:5:"mtime";i:1601589775;s:6:"markup";s:1312:"<div class="bs-component">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="#">{{this.theme.site_name}}</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item {%if this.page.id == 'home'%}active{%endif%}">
+                    <a class="nav-link" href="{{'home' | page}}">Home</a>
+                </li>
+                <li class="nav-item {%if this.page.id == 'contact'%}active{%endif%}">
+                    <a class="nav-link" href="{{'contact' | page}}">Contact</a>
+                </li>
+                <li class="nav-item {%if this.page.id == 'blog'%}active{%endif%}">
+                    <a class="nav-link" href="{{'blog' | page}}">Blog</a>
+                </li>
+                <li class="nav-item {%if this.page.id == 'about'%}active{%endif%}">
+                    <a class="nav-link" href="{{'about' | page}}">About</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>";s:4:"code";N;}}

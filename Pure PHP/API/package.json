@@ -1,0 +1,22 @@
+{
+    "Hitman2": {
+        "Genre": "Action",
+        "IMDB": "8.0"
+    },
+    "HULK": {
+        "Genre": "Action",
+        "IMDB": "7.0"
+    },
+    "Spider-Man": {
+        "Genre": "Action",
+        "IMDB": "9.0"
+    },
+    "Bat-Man": {
+        "Genre": "action",
+        "IMDB": "8.0"
+    },
+    "Hitman": {
+        "Genre": "Action",
+        "IMDB": "8.0"
+    }
+}

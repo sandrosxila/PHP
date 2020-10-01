@@ -1,0 +1,52 @@
+1601592260a:1:{s:11:"default.htm";a:5:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:746:"<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="{{this.page.meta_description}}">
+    <title>{{this.page.title}}</title>
+    <link rel="stylesheet" href="https://bootswatch.com/4/pulse/bootstrap.css">
+    <link rel="stylesheet" href="{{ 'assets/css/theme.css'  | theme }}">
+    {% styles %}
+</head>
+<body>
+    <header>
+        {% partial 'site/header' %}
+    </header>
+    <div class="container">
+        {% page %}
+    </div>
+    <footer>
+        {% partial 'site/footer' %}
+    </footer>
+
+    <script src="{{'assets/vendor/jquery.js | theme'}}"></script>
+    <script src="{{'assets/vendor/bootstrap.js | theme'}}"></script>
+    <script src="{{'assets/javascript/app.js | theme'}}"></script>
+</body>
+</html>
+";s:5:"mtime";i:1601583125;s:6:"markup";s:745:"<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="{{this.page.meta_description}}">
+    <title>{{this.page.title}}</title>
+    <link rel="stylesheet" href="https://bootswatch.com/4/pulse/bootstrap.css">
+    <link rel="stylesheet" href="{{ 'assets/css/theme.css'  | theme }}">
+    {% styles %}
+</head>
+<body>
+    <header>
+        {% partial 'site/header' %}
+    </header>
+    <div class="container">
+        {% page %}
+    </div>
+    <footer>
+        {% partial 'site/footer' %}
+    </footer>
+
+    <script src="{{'assets/vendor/jquery.js | theme'}}"></script>
+    <script src="{{'assets/vendor/bootstrap.js | theme'}}"></script>
+    <script src="{{'assets/javascript/app.js | theme'}}"></script>
+</body>
+</html>";s:4:"code";N;}}

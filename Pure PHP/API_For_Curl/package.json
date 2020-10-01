@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Laura",
+        "username": "Woodward",
+        "age": 34,
+        "balance": "$2,955.81",
+        "gender": "female",
+        "company": "ACCUSAGE",
+        "email": "laurawoodward@accusage.com",
+        "phone": "+1 (868) 432-2803",
+        "registered": "2017-06-12T03:33:08 -04:00"
+    },
+    {
+        "id": 2,
+        "name": "Abbott",
+        "username": "Hamilton",
+        "age": 34,
+        "balance": "$2,981.14",
+        "gender": "male",
+        "company": "PATHWAYS",
+        "email": "abbotthamilton@pathways.com",
+        "phone": "+1 (831) 583-3969",
+        "registered": "2018-05-23T10:54:07 -04:00"
+    },
+    {
+        "id": 3,
+        "name": "Wilder",
+        "username": "Vaughn",
+        "age": 39,
+        "balance": "$1,029.98",
+        "gender": "male",
+        "company": "ZENTIX",
+        "email": "wildervaughn@zentix.com",
+        "phone": "+1 (903) 432-3015",
+        "registered": "2016-07-22T09:09:15 -04:00"
+    },
+    {
+        "id": 4,
+        "name": "Matilda",
+        "username": "Mann",
+        "age": 34,
+        "balance": "$3,401.73",
+        "gender": "female",
+        "company": "ISOTRONIC",
+        "email": "matildamann@isotronic.com",
+        "phone": "+1 (886) 591-2088",
+        "registered": "2015-09-17T11:09:26 -04:00"
+    },
+    {
+        "id": 5,
+        "name": "Carole",
+        "username": "Hayden",
+        "age": 40,
+        "balance": "$3,225.92",
+        "gender": "female",
+        "company": "DANCERITY",
+        "email": "carolehayden@dancerity.com",
+        "phone": "+1 (881) 425-2816",
+        "registered": "2014-11-18T05:07:21 -04:00"
+    },
+    {
+        "name": "nick",
+        "surname": "fury",
+        "age": "14"
+    }
+]

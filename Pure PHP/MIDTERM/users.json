@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "1",
+        "age": "37",
+        "name": "Pickett Whitley",
+        "gender": "male",
+        "company": "EXOZENT",
+        "email": "pickettwhitley@exozent.com",
+        "phone": "+1 (931) 405-2289",
+        "address": "666 Locust Street, Geyserville, Michigan, 5760"
+    },
+    {
+        "_id": "2",
+        "age": "39",
+        "name": "Reba Wong",
+        "gender": "female",
+        "company": "AMTAS",
+        "email": "rebawong@amtas.com",
+        "phone": "+1 (959) 553-3150",
+        "address": "583 Chester Avenue, Jessie, Idaho, 8192"
+    },
+    {
+        "_id": "3",
+        "age": "33",
+        "name": "Strong Webster",
+        "gender": "male",
+        "company": "BOSTONIC",
+        "email": "strongwebster@bostonic.com",
+        "phone": "+1 (804) 424-3662",
+        "address": "686 Sedgwick Place, Kanauga, Nebraska, 1072"
+    },
+    {
+        "_id": "4",
+        "age": "36",
+        "name": "Wilcox Aguirre",
+        "gender": "male",
+        "company": "FUELWORKS",
+        "email": "wilcoxaguirre@fuelworks.com",
+        "phone": "+1 (822) 429-2473",
+        "address": "657 Campus Road, Wintersburg, Vermont, 6848"
+    },
+    {
+        "_id": "5",
+        "age": "36",
+        "name": "Harriett Campos",
+        "gender": "female",
+        "company": "GINKOGENE",
+        "email": "harriettcampos@ginkogene.com",
+        "phone": "+1 (971) 595-3393",
+        "address": "749 Louisiana Avenue, Hoagland, Oklahoma, 1677"
+    },
+    {
+        "_id": "6",
+        "age": "39",
+        "name": "Burns Brooks",
+        "gender": "male",
+        "company": "QUARX",
+        "email": "burnsbrooks@quarx.com",
+        "phone": "+1 (817) 558-3059",
+        "address": "872 Hendrickson Street, Garfield, West Virginia, 852"
+    },
+    {
+        "_id": "7",
+        "age": "36",
+        "name": "Valdez Knapp",
+        "gender": "male",
+        "company": "MOLTONIC",
+        "email": "valdezknapp@moltonic.com",
+        "phone": "+1 (805) 498-3027",
+        "address": "478 Maple Avenue, Lavalette, Arizona, 6843"
+    }
+]
